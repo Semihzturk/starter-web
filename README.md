@@ -1,8 +1,8 @@
 # Starter Web Repo
 dsda
 ##Introduction
-This repository is for showing how Git and GitHub work
-
+sadasdsadasThis repository is for showing how Git and GitHub work
+sdadas
 ## Purpose
 
 ## Deployment
