@@ -1,6 +1,6 @@
 dwadawdawdawdaw# humanstxt.org/
 # The humans responsible & technology colophon
-
+tekrar yazdım
 # TEAM
 
     Jason Taylor   jason@git.training @awesomejt
