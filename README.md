@@ -7,7 +7,7 @@ sdadas
 ilk yazı master
 ikinci yazı mynewfeature
 ## Deployment
-
+sdasd
 ## How to Contribute
 
 Please fork this repository and then issue Pull Requests for review.
