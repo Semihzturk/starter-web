@@ -4,7 +4,7 @@ dsda
 sadasdsadasThis repository is for showing how Git and GitHub work
 sdadas
 ## Purpose
-
+ilk yazı master
 ## Deployment
 
 ## How to Contribute
